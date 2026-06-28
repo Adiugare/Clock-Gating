@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/adity/clk_gating/clk_gating.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/adity/clk_gating/clk_gating.srcs/sim_1/new/top_tb.v,1782627985,verilog,,,,top_tb,,,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/adity/clk_gating/clk_gating.srcs/sources_1/new/clk_gating.v,1782626653,verilog,,C:/Users/adity/clk_gating/clk_gating.srcs/sources_1/new/top.v,,clk_gating,,,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/adity/clk_gating/clk_gating.srcs/sources_1/new/top.v,1782629219,verilog,,C:/Users/adity/clk_gating/clk_gating.srcs/sim_1/new/top_tb.v,,top,,,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
